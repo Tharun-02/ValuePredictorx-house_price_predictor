@@ -1,4 +1,4 @@
-# house_price_prediction
+# House Price Prediction
 ## Overview
 
 Predicting house prices using machine learning models trained on historical data to provide accurate estimates for real estate valuation.
