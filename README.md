@@ -48,7 +48,7 @@ The system uses the California Housing Prices dataset, which can be downloaded h
 Linear Regression utilized the linear relationship between features and prices for straightforward predictions
 
 ## Random Forest Regression
-Random Forest Regression leveraged an ensemble of decision trees to capture complex patterns, resulting in enhanced accuracy at 81%
+Random Forest Regression leveraged an ensemble of decision trees to capture complex patterns.
 
 ## Conclusion
 
